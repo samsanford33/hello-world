@@ -1,2 +1,3 @@
 # hello-world
 The new person guide told me to do it...
+I'm a functional software implementor, trying to learn more about the technical side of the world... plus, I have some good ideas I'd like to develop!
